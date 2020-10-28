@@ -1,6 +1,6 @@
 # Memory Game 
 
-##Sections
+## Sections
  - [DEMO](#demo)
  - [FEATURES](#features)
  - [TECHNOLOGIES USED](#technologies-used)
