@@ -1,4 +1,4 @@
-# Memory Game 
+# Memory Game
 
 ## Sections
  - [DEMO](#demo)
@@ -7,8 +7,8 @@
  - [DETAILS](#details)
 
 ## Demo
-You can try the generator yourself: [here](https://chocotacove.github.io/memory-game)  or
-https://chocotacove.github.io/memory-game
+You can try the generator yourself: [here](https://vshalt.io/memory-game)  or
+https://vshalt.github.io/memory-game
 <div style="display: flex;flex-wrap:wrap; padding: 30px;">
 <img alt="demo" style="margin: 20px; padding: 20px;width: 600px" src="./img/demo1.png">
 <img alt="demo" style="margin: 20px; padding: 20px;width: 600px" src="./img/demo2.png">
